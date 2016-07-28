@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1DFE08F7EEAD549A6E001F193E3012731EF424E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C7F76CA7EA19DAAC88D555DE1EBA724C31E9797" : 0,
+    "1DFE08F7EEAD549A6E001F193E3012731EF424E1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0BDDA9B4-253F-43C6-BB0A-2A8A25978D1C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C7F76CA7EA19DAAC88D555DE1EBA724C31E9797" : "",
+    "1DFE08F7EEAD549A6E001F193E3012731EF424E1" : "homework-4\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cameraTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/cameraTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yuriy-baranov\/homework-4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DFE08F7EEAD549A6E001F193E3012731EF424E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fletcherist\/ya-hmwrk-4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C7F76CA7EA19DAAC88D555DE1EBA724C31E9797"
+    }
+  ]
+}

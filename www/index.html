@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <meta http-equiv="Content-Security-Policy" content="default-src * data: blob: filesystem: 'unsafe-inline'">
+
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+
+    
+    <link rel="stylesheet" href="css/framework7.ios.min.css">
+    <link rel="stylesheet" href="css/framework7.ios.colors.min.css">
+
+    <title>Hello World</title>
+</head>
+
+<body>
+	<header class='header'>
+        <h1 class='header__title'>
+            Old photo effect
+        </h1>
+    </header>
+    <canvas class='photo-field'></canvas>
+    <img class='camera-output'>
+    <button class='shot-button'></button>
+    <div class="range-slider">
+        <input class='range-slider__input' type="range" min="0" max="100" value="50" step="0.1">
+    </div>
+    <div class="app"></div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/effect.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+
+</html>
