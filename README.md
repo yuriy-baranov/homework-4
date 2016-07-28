@@ -3,6 +3,7 @@
 <img src="https://pp.vk.me/c637119/v637119575/13fe/OPXItwOpNOw.jpg" width="250"/>
 <img src="https://pp.vk.me/c637119/v637119575/13ea/KcIFCRAbQxM.jpg" width="250"/>
 <img src="https://pp.vk.me/c637119/v637119575/13f4/gLAsIbP5UI0.jpg" width="250"/>
+<img src="https://pp.vk.me/c637119/v637119575/1447/JVIC5V_LXsk.jpg" width="250"/>
 
 Используются плагины для работы с камерой, скрытия statusbar и показа splash screen.
 
